@@ -85,10 +85,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For questions or collaboration opportunities, feel free to contact us at monishkumarpecai@gmail.com.
-
 ---
 
 ---
